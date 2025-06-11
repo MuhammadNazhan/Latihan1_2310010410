@@ -1,13 +1,4 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- */
-
 package com.mycompany.latihan;
-
-/**
- *
- * @author Acer
- */
 public class Latihan {
 
     public static void main(String[] args) {
